@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Fatemeh 👋
 
-<!--
-**fatimaah98/fatimaah98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / Full‑stack JavaScript Developer focused on building **clean, scalable, and user‑centric web applications**.
 
-Here are some ideas to get you started:
+I specialize in **Nuxt 3 & Vue ecosystem**, with hands‑on experience delivering real production features and MVPs in the travel‑tech and startup space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I Do
+
+* Build modern frontend applications with **Nuxt 3, Vue 3, TypeScript**
+* Design scalable UI architectures with **TailwindCSS & reusable components**
+* Develop backend services using **Node.js, Express, MongoDB**
+* Turn ideas into **MVPs** with strong UX and clean code
+* Work with **Docker, Nginx, PM2** for production deployments
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+
+* Nuxt 3, Vue 3, TypeScript
+* TailwindCSS, Nuxt UI, GSAP
+* Pinia, VueUse
+
+**Backend**
+
+* Node.js, Express
+* MongoDB, REST APIs
+
+**Dev & Ops**
+
+* Git & GitLab / GitHub
+* Docker, Nginx, PM2
+* Linux (Ubuntu)
+
+---
+
+## 🚀 Selected Projects
+
+### 🔹 Mentora (In Progress)
+
+A professional directory platform focused on personal branding and visibility.
+
+* Nuxt 3 frontend MVP
+* Component‑driven architecture
+* Mobile‑first design
+
+### 🔹 Travel Tech Platform (Luxota)
+
+Production features for a multi‑service travel platform.
+
+* Voucher & booking flows
+* Multi‑tenant frontend architecture
+* Real‑world performance and UX optimizations
+
+---
+
+## 🌍 Goals
+
+* Build high‑quality products with real users
+* Grow as a senior frontend / full‑stack engineer
+* Open to **international opportunities** (Europe‑focused)
+
+---
+
+## 📫 Contact
+
+* GitHub: [@fatimaah98](https://github.com/fatimaah98)
+
+---
+
+⭐ *I value clean code, thoughtful UX, and continuous learning.*
