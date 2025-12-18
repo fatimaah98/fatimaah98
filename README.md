@@ -8,11 +8,11 @@ I specialize in **Nuxt 3 & Vue ecosystem**, with hands‑on experience deliverin
 
 ## 💡 What I Do
 
-* Build modern frontend applications with **Nuxt 3, Vue 3, TypeScript**
+* Build modern frontend applications with **Nuxt 3, Vue 3**
 * Design scalable UI architectures with **TailwindCSS & reusable components**
 * Develop backend services using **Node.js, Express, MongoDB**
 * Turn ideas into **MVPs** with strong UX and clean code
-* Work with **Docker, Nginx, PM2** for production deployments
+* Work with **Docker, Nginx, PM2** for production deployments (basic level)
 
 ---
 
@@ -53,8 +53,6 @@ Production features for a multi‑service travel platform.
 
 * Voucher & booking flows
 * Multi‑tenant frontend architecture
-* Real‑world performance and UX optimizations
-
 ---
 
 ## 🌍 Goals
