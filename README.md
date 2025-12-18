@@ -29,12 +29,6 @@ I specialize in **Nuxt 3 & Vue ecosystem**, with hands‑on experience deliverin
 * Node.js, Express
 * MongoDB, REST APIs
 
-**Dev & Ops**
-
-* Git & GitLab / GitHub
-* Docker, Nginx, PM2
-* Linux (Ubuntu)
-
 ---
 
 ## 🚀 Selected Projects
