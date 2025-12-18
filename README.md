@@ -66,6 +66,7 @@ Production features for a multi‑service travel platform.
 ## 📫 Contact
 
 * GitHub: [@fatimaah98](https://github.com/fatimaah98)
+* Linkedin: [Fatima Nassari](https://www.linkedin.com/in/fatima-nassari-905305383/)
 
 ---
 
